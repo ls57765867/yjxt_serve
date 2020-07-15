@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "title": "首页",
+    "_key": "/home",
+    "icon": "icon iconfont icon-changjingguanli",
+    "prentID": 0
+  },
+  {
+    "id": 2,
+    "title": "幼教资源管理",
+    "icon": "icon iconfont icon-gongnengdingyi",
+    "_key": "/resource",
+    "prentID": 0
+  },
+  {
+    "id": 3,
+    "title": "职场人生管理",
+    "icon": "icon iconfont icon-hezuohuobanmiyueguanli",
+    "_key": "/lifejob",
+    "prentID": 0
+  },
+  {
+    "id": 4,
+    "title": "活动专区管理",
+    "icon": "icon iconfont icon-yibiaopan",
+    "_key": "/activities",
+    "prentID": 0
+  },
+  {
+    "id": 5,
+    "title": "直播课堂管理",
+    "icon": "icon iconfont icon-icon_fabu",
+    "_key": "/live",
+    "prentID": 0
+  },
+  {
+    "id": 6,
+    "title": "设置中心",
+    "icon": "icon iconfont icon-icon_shezhi",
+    "_key": "/setting",
+    "prentID": 0,
+    "children": [
+      {
+        "id": 7,
+        "title": "账户设置",
+        "icon": "icon iconfont icon-fuwudiqiu",
+        "_key": "/setting/account",
+        "prentID": 6
+      },
+      {
+        "id": 8,
+        "title": "会员统计",
+        "icon": "icon iconfont icon-shenjing",
+        "_key": "/setting/member",
+        "prentID": 6
+      }
+    ]
+  }
+]

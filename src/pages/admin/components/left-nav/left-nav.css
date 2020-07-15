@@ -1,0 +1,37 @@
+.logo{
+    height: 160px;
+    padding-top: 35px;
+    /* background-color: red;*/
+
+    /*文字居中*/
+    text-align: center;
+}
+
+.logo .avatar{
+    width: 80px;
+    height: 80px;
+    margin: 0 auto;
+    overflow: hidden;
+    border: 3px solid #e7e7e7;
+    border-radius: 50%;
+    transition:.3s;
+}
+
+.logo .avatar img{
+    width: 200%;
+    height: 200%;
+    margin-left: -55%;
+    margin-top: -51%;
+    border-radius: 50%;
+}
+
+.logo h4{
+    margin-top: 5px;
+    color: #e7e7e7;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.left-nav .iconfont{
+    transition:.3s;
+}
